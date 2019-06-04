@@ -1,7 +1,0 @@
-(() => {
-	//stub
-	console.log('fired');
-	
-
-	
-})();
